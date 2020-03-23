@@ -51,6 +51,12 @@ img{
   width:30%;
 }
 
+#myImg{
+  height: 25%;
+  width: 25%;
+  margin-bottom: 50px;
+}
+
 .mountimg{
   height:40%;
   width:40%;
