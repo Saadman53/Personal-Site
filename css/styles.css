@@ -40,6 +40,11 @@ p{
   font-size: 1.125rem;
   line-height: 2;
 }
+
+#programmer{
+  margin-top: 50px;
+  margin-bottom: 150px;
+}
 .top-container{
 /*  background-color: #E4F9F5;*/
   /*background-color: #fcefd7;*/
