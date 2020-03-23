@@ -5,12 +5,13 @@ body{
    font-family: 'Merriweather', serif;
 
    color: #40514E;
-   background-color: #e9f7f5;
+   /*1 background-color: #e9f7f5;*/
+   background-color: #fcf5f5;
 }
 hr{
   /*border: dotted #EAF6F6 6px;*/
-  border: dotted black 6px;
-  background-color: #e9f7f5;
+  border: dotted #b0ebdc 6px;
+  background-color: #fcf5f5;
   border-bottom: none;
   width: 4%;
   margin: 150px auto;
@@ -41,7 +42,8 @@ p{
 }
 .top-container{
 /*  background-color: #E4F9F5;*/
-  background-color: #fcefd7;
+  /*background-color: #fcefd7;*/
+  background-color: #e0ebe8;
   position: relative;
   padding-top: 90px;
 }
@@ -87,19 +89,22 @@ margin: 100px 0;
 }
 
 .bottom-container{
-  background-color: #d5f7f1;
+  /*1 background-color: #d5f7f1;*/
+  background-color: #e0ebe8;
   padding: 50px 0 20px;
 }
 
 
 .navbar{
-  background-color: #66BFBF;
+  /*1 background-color: #66BFBF;*/
+  background-color: #e0ebe8;
 }
 
 .navbar-brand{
   font-size: 2.5rem;
   font-family: 'Sacramento', cursive;
-  color: #EAF6F6;
+  /*1 color: #EAF6F6;*/
+  color: #66BFBF;
 }
 
 a{
@@ -143,7 +148,11 @@ a:hover{
   margin:  40px auto 60px;
 }
 
+#contactme{
+  font-family: 'Montserrat', sans-serif;
+}
 
+/*
 .btn {
 	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #73fff1), color-stop(1, #3ab59e) );
 	background:-moz-linear-gradient( center top, #73fff1 5%, #3ab59e 100% );
@@ -186,3 +195,5 @@ a:hover{
 	position:relative;
 	top:1px;
 }
+
+*/
