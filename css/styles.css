@@ -232,7 +232,7 @@ a.carousel-control-prev{
 }
 
 /* Media Query */
-@media (max-width:400px) {
+@media (max-width:1028px) {
   h1 {
     font-size: 3rem;
   }
@@ -259,8 +259,8 @@ a.carousel-control-prev{
   /* Sliding section */
 
   .pdf {
-    padding-top: 36.8px;
-    padding-bottom: 36.8px;
+    padding-top: 48px;
+    padding-bottom: 48px;
   }
 
   .project-description {
