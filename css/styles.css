@@ -197,6 +197,13 @@ a.carousel-control-prev{
 .img-container {
   background-color: #fff;
 }
+.project-anchor{
+  font-size: 1.5rem;
+  line-height: 1.5;
+  /* color: #66BFBF; */
+  color: #737b8c;
+  margin: 0px 0px;
+}
 
 /* CONTACT SECTION */
 #contactSection {
@@ -225,7 +232,7 @@ a.carousel-control-prev{
 }
 
 /* Media Query */
-@media (max-width:1028px) {
+@media (max-width:400px) {
   h1 {
     font-size: 3rem;
   }
@@ -252,8 +259,8 @@ a.carousel-control-prev{
   /* Sliding section */
 
   .pdf {
-    padding-top: 48px;
-    padding-bottom: 48px;
+    padding-top: 36.8px;
+    padding-bottom: 36.8px;
   }
 
   .project-description {
@@ -266,8 +273,12 @@ a.carousel-control-prev{
   a.carousel-control-prev{
     padding-right: 50px;
   }
+  .project-anchor{
+      font-size: 0.9rem;
+  }
 
   .copyright{
     font-size: 0.65rem;
   }
+
 }
