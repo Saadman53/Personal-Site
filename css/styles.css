@@ -232,7 +232,7 @@ a.carousel-control-prev{
 }
 
 /* Media Query */
-@media (max-width:1028px) {
+@media (max-width:400px) {
   h1 {
     font-size: 3rem;
   }
